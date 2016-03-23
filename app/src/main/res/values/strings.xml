@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="q1">Is India the largest democracy in the world?</string>
+    <string name="q2">Is USA the super power?</string>
+    <string name="q3">Is Japan the super power?</string>
+    <string name="q4">Is China the second super power?</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="judgement_toast">Cheater</string>
+
+
+
+</resources>
